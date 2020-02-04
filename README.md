@@ -1,4 +1,4 @@
-# Social-Network-in-Cpp
+# Social-Network-in-C++
  A simple C++ example of social media.
 
 ## How to run the program
