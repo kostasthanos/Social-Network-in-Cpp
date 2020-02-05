@@ -2,7 +2,7 @@
  A simple C++ example of social media.
 
 ## How to run the program
-**1.** Open terminal
+**1.** Open terminal.
 
 **2A.** Install gcc (g++) the C++ compiler.
    ```
@@ -12,7 +12,7 @@
    ```
    $ sudo apt-get install build-essential
    ```
-**3.** Check the gcc version
+**3.** Check the gcc version.
    ```
    $ gcc –version
    ```
