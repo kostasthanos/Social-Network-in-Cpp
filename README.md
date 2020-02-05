@@ -2,28 +2,28 @@
  A simple C++ example of social media.
 
 ## How to run the program
- 1. Open terminal
-2A. Install gcc (g++) the C++ compiler.
+**1.** Open terminal
+**2A.** Install gcc (g++) the C++ compiler.
    ```
    $ sudo apt install g++
    ```
-2B. Install build-essential. This package will also install libraries as well as the gcc compiler.
+**2B.** Install build-essential. This package will also install libraries as well as the gcc compiler.
    ```
    $ sudo apt-get install build-essential
    ```
- 3. Check the gcc version
+**3.** Check the gcc version
    ```
    $ gcc –version
    ```
- 4. Go to the folder of the program. Write the path to the folder.
+**4.** Go to the folder of the program. Write the path to the folder.
    ```
-   $ cd /path_to_folder/.../folder
+   $ cd /path_to_folder/folder
    ```
- 5. Compiling the C++ program (**main.cpp**).
+**5.** Compiling the C++ program (**main.cpp**).
    ```
    $ sudo g++ main.cpp 
    ```
- 6. Run the C++ program.
+**6.** Run the C++ program.
    ```
    $ ./main
    ```
