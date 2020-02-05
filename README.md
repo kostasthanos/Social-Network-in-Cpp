@@ -3,6 +3,7 @@
 
 ## How to run the program
 **1.** Open terminal
+
 **2A.** Install gcc (g++) the C++ compiler.
    ```
    $ sudo apt install g++
