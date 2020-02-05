@@ -2,8 +2,32 @@
  A simple C++ example of social media.
 
 ## How to run the program
-To run the program...
-
+ 1. Open terminal
+2A. Install gcc (g++) the C++ compiler.
+   ```
+   $ sudo apt install g++
+   ```
+2B. Install build-essential. This package will also install libraries as well as the gcc compiler.
+   ```
+   $ sudo apt-get install build-essential
+   ```
+ 3. Check the gcc version
+   ```
+   $ gcc –version
+   ```
+ 4. Go to the folder of the program. Write the path to the folder.
+   ```
+   $ cd /path_to_folder/.../folder
+   ```
+ 5. Compiling the C++ program (**main.cpp**).
+   ```
+   $ sudo g++ main.cpp 
+   ```
+ 6. Run the C++ program.
+   ```
+   $ ./main
+   ```
+   
 ## Folders and Files
 
 ### Folders
@@ -29,9 +53,9 @@ john
    Contains conversations between users and their friends. It follows the form :
 
    ```
-   𝘓𝘰𝘨𝘨𝘦𝘥_𝘪𝘯_𝘶𝘴𝘦𝘳 : 𝑝𝑜𝑠𝑡_𝑜𝑓_𝑙𝑜𝑔𝑔𝑒𝑑_𝑖𝑛_𝑢𝑠𝑒𝑟
-                 𝑟𝑒𝑝𝑙𝑦_𝑓𝑟𝑜𝑚_𝑓𝑟𝑖𝑒𝑛𝑑_𝑢𝑠𝑒𝑟 (𝑛𝑎𝑚𝑒_𝑜𝑓_𝑓𝑟𝑖𝑒𝑛𝑑)
-   ```
+   Logged_in_user : post_of_logged_in_user
+                    reply_from_friend_user (name_of_friend)
+                    
 2. **database**  
    Contains pairs of usernames and passwords from all of the registered users in the Social Network.
 
