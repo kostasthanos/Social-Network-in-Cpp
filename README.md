@@ -220,4 +220,4 @@ Thanks for your visit logged_in_user_name !
 ```
 
 ## Author
-**Konstantinos Thanos**
+* **Konstantinos Thanos**
