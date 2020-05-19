@@ -1,7 +1,7 @@
 # Social-Network-in-C++
  A simple C++ example of social media.
 
-## How to run the program
+## How to run the program (Ubuntu)
 **1.** Open terminal.
 
 **2A.** Install gcc (g++) the C++ compiler.
