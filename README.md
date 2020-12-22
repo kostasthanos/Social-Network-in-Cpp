@@ -1,4 +1,4 @@
-# Social-Network-in-C++
+# Simple Social Network in C++
  A simple C++ example of a social network.
 ## How to run the program (Ubuntu)
 **1.** Open terminal.
