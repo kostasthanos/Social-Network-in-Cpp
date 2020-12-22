@@ -135,7 +135,7 @@ The very first menu that user can see. User can select one of the 3 available ch
 by pressing the number which corresponds to his choice (1,2,3). If user presses a number different from the given ones then he goes back to the first menu. 
 
 **registration.h**  
-The user logs in with the desired username and password. If any of these already exists then user is being asked to repeat the process. If the process is done correctly then he can choose from 3 options :  
+The user enters-types desired username and password. If any of these already exists then user is being asked to repeat the process. If the process is done correctly then he can choose from 3 options :  
 
 ```
 1) Log In
