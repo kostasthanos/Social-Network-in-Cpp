@@ -49,7 +49,7 @@ john
 
 ### Network files
 1. **conversations**  
-   Contains conversations between users and their friends. It follows the form :
+   Contains conversations between users and their friends.
 
    ```
    Logged_in_user : post_of_logged_in_user
@@ -167,7 +167,7 @@ By choosing the first option *My wall* from the above menu the user can see one 
 i) His own posts
 ii) His friends' posts
 iii) Conversations with friends
-iv) Likes of friends to his own posts
+iv) Likes from friends to his own posts
 ```
 Finally he is being asked to return to the Social Network menu or not.
 
