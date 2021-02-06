@@ -35,8 +35,7 @@ The only folder exists is the folder of the header files (**header_files**). Mor
 
 ### User files
 Each user file has as file name the name of the corresponding user and contains
-other users with whom they are friends.  
-For example if we take the file with name *kostas* then this file contains all friends of user **kostas**.  
+other users with whom they are friends. For example if we take the file with name *kostas* then this file contains all friends of user **kostas**.  
 The following files have already been created for easier understanding and use of this social network.
 
 ```
